@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\bin\Debug\net6.0\Castinggenericsboxunbox.exe
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\bin\Debug\net6.0\Castinggenericsboxunbox.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\bin\Debug\net6.0\Castinggenericsboxunbox.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\bin\Debug\net6.0\Castinggenericsboxunbox.dll
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\bin\Debug\net6.0\Castinggenericsboxunbox.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.dll
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\refint\Castinggenericsboxunbox.dll
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\Castinggenericsboxunbox.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Casting Generics\homework\Castinggenericsboxunbox\Castinggenericsboxunbox\obj\Debug\net6.0\ref\Castinggenericsboxunbox.dll
